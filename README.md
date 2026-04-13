@@ -1,17 +1,55 @@
-# Organization Template Repository
+# {{PROJECT_NAME}}
 
-This is the standard **starter template** for all **Ai-Whisperers** Python projects.
+> One-line description of what this project does.
 
-## Purpose
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![AI Whisperers](https://img.shields.io/badge/Org-Ai--Whisperers-8B5CF6?logo=github)](https://github.com/Ai-Whisperers)
 
-It includes pre-configured settings for:
+## Overview
 
-- **Linting:** `ruff.toml` (Optimized for 3.10+)
-- **Style:** `.flake8` (Standard Python style)
-- **Spelling:** `cspell.json` (Project-specific vocabulary)
+Explain what this project is, why it exists, and how it fits into the broader system.
 
-## How to Usage
+## Features
 
-1. **Create a new Repo:** Go to `github.com/organizations/Ai-Whisperers/repositories/new`.
-2. **Select Template:** Choose **`Ai-Whisperers/organization-template`** from the "Repository template" dropdown.
-3. **Start Coding:** Your new repo will already have strict linting and spelling checks enabled!
+- Feature 1
+- Feature 2
+- Feature 3
+
+## Quick Start
+
+### Prerequisites
+
+- [Tool X](link)
+- [Tool Y](link)
+
+### Installation
+
+```bash
+git clone https://github.com/Ai-Whisperers/{{PROJECT_SLUG}}.git
+cd {{PROJECT_SLUG}}
+# ... setup steps
+```
+
+### Usage
+
+```bash
+# Example command
+command --flag value
+```
+
+## Documentation
+
+- [docs/](docs/) — Full documentation
+- [ARCHITECTURE.md](docs/architecture.md) — System design
+
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md). All contributions are welcome.
+
+## License
+
+MIT License — see [LICENSE](LICENSE).
+
+## Team
+
+- **AI Whisperers** — [https://aiwhisperers.com](https://aiwhisperers.com)
